@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungPreyu
 - 👀 I’m interested in Math, Physics and Computer Science
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning CS and Programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
